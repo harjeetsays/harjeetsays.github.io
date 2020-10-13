@@ -1,0 +1,13 @@
+h1{
+    border-width: thin;
+    border-radius: 2em;
+    padding: 15px;
+    
+    background-color: rgb(78, 45, 5);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: inherit;
+}
+h1:hover{
+    background-color: gray;
+  
+}
